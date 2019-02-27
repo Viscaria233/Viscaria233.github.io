@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Maven简介"
-date:   2018-01-08 10:33:45 +0800
-categories: jekyll update
 ---
 >这篇文章讲的是： `Maven`是什么，以及 `Maven`怎样配合IDE使用
 
